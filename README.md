@@ -10,5 +10,5 @@ Input: Uma foto  (arquivo jpeg ou png) contendo várias moedas
 ![input](/image/input.jpg)
 
 Output: Valor da soma das moedas na foto.
-
+![output](/image/output.png)
 
